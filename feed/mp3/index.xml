@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:fh="http://purl.org/syndication/history/1.0" xmlns:podcast="https://podcastindex.org/namespace/1.0" >
+
+<channel>
+	<title>Gurus of Comedy</title>
+	<link>https://github.gurucomedy.com/</link>
+	<description><![CDATA[Ambassador with this Comedy you are really spoiling us!]]></description>
+	<lastBuildDate>Mon, 22 Mar 2021 22:43:02 +0000</lastBuildDate>
+	
+<image><url>https://github.gurucomedy.com/wp-content/uploads/2020/06/guru_square4-300x300.png</url><title>Gurus of Comedy</title><link>https://github.gurucomedy.com/</link></image>
+<atom:link rel="self" type="application/rss+xml" title="Gurus of Comedy (MP3 Feed)" href="https://github.gurucomedy.com/feed/mp3/index.xml" />
+	<atom:link rel="alternate" type="application/rss+xml" title="Gurus of Comedy (podcast)" href="https://github.gurucomedy.com/feed/podcast/index.xml" />
+	<atom:link rel="next" href="https://github.gurucomedy.com/feed/mp3/?paged=2" />
+	<atom:link rel="first" href="https://github.gurucomedy.com/feed/mp3/index.xml" />
+	<atom:link rel="last" href="https://github.gurucomedy.com/feed/mp3/?paged=3" />
+	<language>en-IE</language>
+<atom:contributor><atom:name>Dave Keeshan</atom:name><atom:uri>https://www.podchaser.com/users/davekeeshan</atom:uri></atom:contributor>
+
+<podcast:person img="https://github.gurucomedy.com/wp-content/uploads/2020/06/DK_face_dinky-271x300.png" role="host">Dave Keeshan</podcast:person>
+<site xmlns="com-wordpress:feed-additions:1">173776818</site><generator>Podlove Podcast Publisher v3.4.1</generator>
+	<itunes:author>Dave Keeshan</itunes:author>
+	<itunes:type>episodic</itunes:type>
+	<itunes:summary><![CDATA[Do you like comedy? Would you like to know more? Dave Keeshan hosts a wild podcast all about comedy. From interviews with the funniest people in the business out there to reviewing books and movies with the trained eye of a forensic comedian. 
+
+There is no other podcast out there like this! FACT!]]></itunes:summary>
+<itunes:category text="Comedy"><itunes:category text="Comedy Interviews"></itunes:category></itunes:category>
+	
+	<itunes:owner>
+		<itunes:name>Dave Keeshan</itunes:name>
+		<itunes:email>admin@gurucomedy.com</itunes:email>
+	</itunes:owner>
+	<itunes:image href="https://github.gurucomedy.com/wp-content/uploads/2020/06/guru_square4-300x300.png"/>
+	<itunes:subtitle>Ambassador with this Comedy you are really spoiling us!</itunes:subtitle>
+	<itunes:block>no</itunes:block>
+	<itunes:explicit>no</itunes:explicit>
+	
+	<podcast:funding url="https://patreon.com/gurucomedy">Patreon</podcast:funding>
+
+	
+	<item>
+        <title>Medieval Comedy and Bakhtin’s Carnival Theory</title>
+		<link>https://github.gurucomedy.com/bakhtins-carnival-theory/</link>
+		<pubDate>Mon, 22 Mar 2021 22:42:31 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2021-03-22t21:23:16+00:00-336040704c1531a</guid>
+    	<description><![CDATA[This episode we go old school, literally.  We are joined by comic Mabel Slattery to discuss medieval comedy and Mikhail Bakhtin and his Carnival Theory, we get into some interesting ideas like Humour Theory, Robin Hood, Sumptuary Laws, Secular Lyrics of the XIVth and XVth Centuries,  Richard Hill Commonplace Book, Chaucer's Knight Tale and just having a bit of craic!]]></description><post-id xmlns="com-wordpress:feed-additions:1">440</post-id>
+		<atom:link rel="http://podlove.org/deep-link" href="https://github.gurucomedy.com/bakhtins-carnival-theory/#" />
+		
+<enclosure url="https://cloudflare-ipfs.com/ipfs/QmQVyP3ZZt8ryo8kgDhvnGYRtpnc6YJ3d2RnheTyTNrus8?filename=goc22.mp3" length="41586483" type="audio/mpeg"/>
+
+		<itunes:duration>00:57:42</itunes:duration>
+		<itunes:author>Dave Keeshan</itunes:author>
+		<itunes:subtitle>Humour goes Medieval!</itunes:subtitle>
+		<itunes:episode>22</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary><![CDATA[This episode we go old school, literally.  We are joined by comic Mabel Slattery to discuss medieval comedy and Mikhail Bakhtin and his Carnival Theory, we get into some interesting ideas like Humour Theory, Robin Hood, Sumptuary Laws, Secular Lyrics of the XIVth and XVth Centuries,  Richard Hill Commonplace Book, Chaucer's Knight Tale and just having a bit of craic!]]></itunes:summary>
+		
+		<content:encoded><![CDATA[<p><img loading="lazy" class="alignleft size-medium wp-image-441" src="https://github.gurucomedy.com/wp-content/uploads/2021/03/00765-grotesk1-226x300.jpg" alt="" width="226" height="300" srcset="https://github.gurucomedy.com/wp-content/uploads/2021/03/00765-grotesk1-226x300.jpg 226w, https://github.gurucomedy.com/wp-content/uploads/2021/03/00765-grotesk1-250x332.jpg 250w, https://github.gurucomedy.com/wp-content/uploads/2021/03/00765-grotesk1-136x180.jpg 136w, https://github.gurucomedy.com/wp-content/uploads/2021/03/00765-grotesk1.jpg 339w" sizes="(max-width: 226px) 100vw, 226px" /></p>
+<p>This episode we go old school, literally.  We are joined by comic <a href="https://twitter.com/mabelwatches" target="_blank" rel="noopener">Mabel Slattery</a> to discuss medieval comedy and <a href="https://en.wikipedia.org/wiki/Mikhail_Bakhtin" target="_blank" rel="noopener">Mikhail Bakhtin </a>and his <a href="https://en.wikipedia.org/wiki/Carnivalesque" target="_blank" rel="noopener">Carnival Theory</a>, we get into some interesting ideas like <a href="https://en.wikipedia.org/wiki/Theories_of_humor" target="_blank" rel="noopener">Humour Theory</a>, Robin Hood, <a href="https://en.wikipedia.org/wiki/Sumptuary_law" target="_blank" rel="noopener">Sumptuary Laws</a>, <a href="https://books.google.ie/books/about/Secular_Lyrics_of_the_XIVth_and_XVth_Cen.html?id=bx8tAAAAIAAJ&amp;redir_esc=y" target="_blank" rel="noopener">Secular Lyrics of the XIVth and XVth Centuries</a>,  Richard Hill Commonplace Book, <a href="https://en.wikipedia.org/wiki/The_Knight%27s_Tale" target="_blank" rel="noopener">Chaucer&#8217;s Knight Tale</a> and just having a bit of craic!</p>
+<p>And here is a snip from the poem Mabel quoted, is it an medieval MC? you decide!</p>
+<h2 style="padding-left: 40px;"><a href="https://books.openedition.org/obp/8946?lang=en" target="_blank" rel="noopener">Snatches of Oral Songs</a></h2>
+<blockquote>
+<p style="padding-left: 40px;">Sir, what say ye with your fat face?<br />
+Me thynkith ye shuld bere a very good bace.<br />
+To a pot of good ale or ipocras,<br />
+Truly as I you say.<br />
+Hold up your hede,<br />
+Ye loke lyke lede,<br />
+Ye wast myche<br />
+Evermore from day to day.<br />
+Bon jowre …</p>
+</blockquote>
+<p>And some Monty Python</p>
+<p><iframe loading="lazy" title="Monty Python&#039;s The Meaning of Life- A Tiger? In Africa?" width="500" height="281" src="https://www.youtube.com/embed/oLdk2C25Z14?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+<atom:contributor><atom:name>Dave Keeshan</atom:name><atom:uri>https://www.podchaser.com/users/davekeeshan</atom:uri></atom:contributor>
+
+<atom:contributor><atom:name>Mabel Slattery</atom:name></atom:contributor>
+
+<podcast:person img="https://github.gurucomedy.com/wp-content/uploads/2020/06/DK_face_dinky-271x300.png" role="host">Dave Keeshan</podcast:person>
+
+<podcast:person img="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e.jpg?s=512&amp;d=mm&amp;r=g" role="guest">Mabel Slattery</podcast:person>
+	</item>
+	
+	<item>
+        <title>Russian Protests</title>
+		<link>https://github.gurucomedy.com/russian-protests/</link>
+		<pubDate>Thu, 11 Feb 2021 21:54:05 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2021-02-11t21:38:46+00:00-f295dbebd9ae910</guid>
+    	<description><![CDATA[After a hiatus WE'RE BACK!
+
+In this episode we are delighted to welcome back to the show Russian comic, Denis Nikolin.
+
+With pandemic lockdowns and worldwide vaccination drives, it is even crazier in Russia, where there are protest and people being detained over the handling of opposition leader Alexei Navalny.
+
+Denis discusses how it is getting harder to write comedy when the world decides it wants to get crazier than the punchlines he's writing.
+
+Denis is also working on some comedy videos released online, you can find him at "Buttfuck Russia", careful googling that, I wasn't!]]></description><post-id xmlns="com-wordpress:feed-additions:1">428</post-id>
+		<atom:link rel="http://podlove.org/deep-link" href="https://github.gurucomedy.com/russian-protests/#" />
+		
+<enclosure url="https://cloudflare-ipfs.com/ipfs/QmS5quFVJGje9D3jCzgjTtX5QB3hFwhtYtVohfnpgEFEvB?filename=goc21.mp3" length="38205965" type="audio/mpeg"/>
+
+		<itunes:duration>00:53:00</itunes:duration>
+		<itunes:author>Dave Keeshan</itunes:author>
+		<itunes:subtitle>After a hiatus WE'RE BACK!</itunes:subtitle>
+		<itunes:episode>21</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary><![CDATA[After a hiatus WE'RE BACK!
+
+In this episode we are delighted to welcome back to the show Russian comic, Denis Nikolin.
+
+With pandemic lockdowns and worldwide vaccination drives, it is even crazier in Russia, where there are protest and people being detained over the handling of opposition leader Alexei Navalny.
+
+Denis discusses how it is getting harder to write comedy when the world decides it wants to get crazier than the punchlines he's writing.
+
+Denis is also working on some comedy videos released online, you can find him at &quot;Buttfuck Russia&quot;, careful googling that, I wasn't!]]></itunes:summary>
+		
+		<content:encoded><![CDATA[<p><img loading="lazy" class="alignleft size-medium wp-image-341" src="https://github.gurucomedy.com/wp-content/uploads/2020/07/94624057_2722765467853198_6257244433708744704_o-300x300.jpg" alt="" width="300" height="300" data-sitemapexclude="true" srcset="https://github.gurucomedy.com/wp-content/uploads/2020/07/94624057_2722765467853198_6257244433708744704_o-300x300.jpg 300w, https://github.gurucomedy.com/wp-content/uploads/2020/07/94624057_2722765467853198_6257244433708744704_o-1024x1024.jpg 1024w, https://github.gurucomedy.com/wp-content/uploads/2020/07/94624057_2722765467853198_6257244433708744704_o-150x150.jpg 150w, https://github.gurucomedy.com/wp-content/uploads/2020/07/94624057_2722765467853198_6257244433708744704_o-768x768.jpg 768w, https://github.gurucomedy.com/wp-content/uploads/2020/07/94624057_2722765467853198_6257244433708744704_o-48x48.jpg 48w, https://github.gurucomedy.com/wp-content/uploads/2020/07/94624057_2722765467853198_6257244433708744704_o-250x250.jpg 250w, https://github.gurucomedy.com/wp-content/uploads/2020/07/94624057_2722765467853198_6257244433708744704_o-550x550.jpg 550w, https://github.gurucomedy.com/wp-content/uploads/2020/07/94624057_2722765467853198_6257244433708744704_o-800x800.jpg 800w, https://github.gurucomedy.com/wp-content/uploads/2020/07/94624057_2722765467853198_6257244433708744704_o-180x180.jpg 180w, https://github.gurucomedy.com/wp-content/uploads/2020/07/94624057_2722765467853198_6257244433708744704_o-500x500.jpg 500w, https://github.gurucomedy.com/wp-content/uploads/2020/07/94624057_2722765467853198_6257244433708744704_o.jpg 1440w" sizes="(max-width: 300px) 100vw, 300px" />After a hiatus WE&#8217;RE BACK!</p>
+<p>In this episode we are delighted to welcome back to the show Russian comic, <a href="https://www.youtube.com/channel/UC9MzGNzpifDu1Bb1cIW1l2Q" target="_blank" rel="noopener">Denis Nikolin</a>.</p>
+<p>With pandemic lockdowns and worldwide vaccination drives, it is even crazier in Russia, where there are protest and people being detained over the handling of opposition leader <a href="https://en.wikipedia.org/wiki/Alexei_Navalny" target="_blank" rel="noopener">Alexei Navalny</a>.</p>
+<p>Denis discusses how it is getting harder to write comedy when the world decides it wants to get crazier than the punchlines he&#8217;s writing.</p>
+<p>Denis is also working on some comedy videos released online, you can find him at &#8220;<a href="https://www.youtube.com/playlist?list=PLTF_CpA-CciHMr8omc3BkofIgCdEccksF" target="_blank" rel="noopener">Buttfuck Russia</a>&#8220;, careful googling that, I wasn&#8217;t!</p>
+<p>Denis previously featured on the Russian Comedy episode, <a href="https://github.gurucomedy.com/russian-comedy-with-denis-nikolin/">check it out here</a>!</p>
+]]></content:encoded>
+<atom:contributor><atom:name>Dave Keeshan</atom:name><atom:uri>https://www.podchaser.com/users/davekeeshan</atom:uri></atom:contributor>
+
+<atom:contributor><atom:name>Denis Nikolin</atom:name></atom:contributor>
+
+<podcast:person img="https://github.gurucomedy.com/wp-content/uploads/2020/06/DK_face_dinky-271x300.png" role="host">Dave Keeshan</podcast:person>
+
+<podcast:person img="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e.jpg?s=512&amp;d=mm&amp;r=g" role="guest">Denis Nikolin</podcast:person>
+	</item>
+	
+	<item>
+        <title>Icelandic Comedy</title>
+		<link>https://github.gurucomedy.com/eyjafjallajokull-icelandic-comedy/</link>
+		<pubDate>Mon, 16 Nov 2020 23:07:25 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2020-11-16t20:50:22+00:00-5684c579e8f8fb2</guid>
+    	<description><![CDATA[On this episode we got two Icelandic comedians, Eyvindur Karlsson and Þórhallur Þórhallsson, also just known as Thor as Dave was too confused by the first one. The guys come on an explain how a country as small of Iceland can have a volcano that no one else on the planet can pronounce.  They also discuss the state of comedy in Iceland and explain to Dave what a Belly Brother in Law is ...]]></description><post-id xmlns="com-wordpress:feed-additions:1">418</post-id>
+		<atom:link rel="http://podlove.org/deep-link" href="https://github.gurucomedy.com/eyjafjallajokull-icelandic-comedy/#" />
+		
+<enclosure url="https://cloudflare-ipfs.com/ipfs/QmVSRTHedvPyT5fta1VcFNsctB5XsrGDFe8yMjg2RiBHPw?filename=goc20.mp3" length="18430787" type="audio/mpeg"/>
+
+		<itunes:duration>00:25:33</itunes:duration>
+		<itunes:author>Dave Keeshan</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:episode>20</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary><![CDATA[On this episode we got two Icelandic comedians, Eyvindur Karlsson and Þórhallur Þórhallsson, also just known as Thor as Dave was too confused by the first one. The guys come on an explain how a country as small of Iceland can have a volcano that no one else on the planet can pronounce.  They also discuss the state of comedy in Iceland and explain to Dave what a Belly Brother in Law is ...]]></itunes:summary>
+		
+		<content:encoded><![CDATA[<p><img loading="lazy" class="alignleft size-medium wp-image-422" src="https://github.gurucomedy.com/wp-content/uploads/2020/11/292yjz-300x161.jpg" alt="" width="300" height="161" srcset="https://github.gurucomedy.com/wp-content/uploads/2020/11/292yjz-300x161.jpg 300w, https://github.gurucomedy.com/wp-content/uploads/2020/11/292yjz-250x134.jpg 250w, https://github.gurucomedy.com/wp-content/uploads/2020/11/292yjz-335x180.jpg 335w, https://github.gurucomedy.com/wp-content/uploads/2020/11/292yjz.jpg 525w" sizes="(max-width: 300px) 100vw, 300px" />On this episode we got two Icelandic comedians, <a href="https://artemist.net/" target="_blank" rel="noopener">Eyvindur Karlsson</a> and <a href="https://www.facebook.com/thorcomedian" target="_blank" rel="noopener">Þórhallur Þórhallsson</a>, also just known as Thor as Dave was too confused by the first one. The guys come on an explain how a country as small of Iceland can have a volcano that no one else on the planet can pronounce.  They also discuss the state of comedy in Iceland and explain to Dave what a Belly Brother in Law is &#8230;</p>
+<p>From Wikipeida, so they must be right!</p>
+<p><a href="https://upload.wikimedia.org/wikipedia/commons/7/75/Is-Eyjafjallaj%C3%B6kull_%283%29.oga" target="_blank" rel="noopener">Eyjafjallajökull</a></p>
+]]></content:encoded>
+<atom:contributor><atom:name>Dave Keeshan</atom:name><atom:uri>https://www.podchaser.com/users/davekeeshan</atom:uri></atom:contributor>
+
+<podcast:person img="https://github.gurucomedy.com/wp-content/uploads/2020/06/DK_face_dinky-271x300.png" role="host">Dave Keeshan</podcast:person>
+	</item>
+	
+	<item>
+        <title>Discussing Richard Pryor</title>
+		<link>https://github.gurucomedy.com/discussing-richard-pryor/</link>
+		<pubDate>Tue, 03 Nov 2020 00:02:10 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2020-11-02t23:50:01+00:00-29891590d534c79</guid>
+    	<description><![CDATA[On this podcast we welcome American native, but Cork resident Dakota Mick.  In taking a break from discussing cancel culture Mick discusses one of the most formative comedians of his life, Richard Pryor.
+
+Discussed are the man himself, black culture on humor in the United States and are there any gigs running in Ireland at all at the moment.  Dave tries as usual to wrangler a gig some where, with the same hilarious results.]]></description><post-id xmlns="com-wordpress:feed-additions:1">414</post-id>
+		<atom:link rel="http://podlove.org/deep-link" href="https://github.gurucomedy.com/discussing-richard-pryor/#" />
+		
+<enclosure url="https://cloudflare-ipfs.com/ipfs/Qmc21bFXKns4Qh2kUmgabgwigWXeVTfVoJ2dUfShMGQ4LC?filename=goc19.mp3" length="23429959" type="audio/mpeg"/>
+
+		<itunes:duration>00:32:29</itunes:duration>
+		<itunes:author>Dave Keeshan</itunes:author>
+		<itunes:subtitle>We discuss one of the most influential standup comedian ever, Richard Pryor</itunes:subtitle>
+		<itunes:episode>19</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary><![CDATA[On this podcast we welcome American native, but Cork resident Dakota Mick.  In taking a break from discussing cancel culture Mick discusses one of the most formative comedians of his life, Richard Pryor.
+
+Discussed are the man himself, black culture on humor in the United States and are there any gigs running in Ireland at all at the moment.  Dave tries as usual to wrangler a gig some where, with the same hilarious results.]]></itunes:summary>
+		
+		<content:encoded><![CDATA[<p>&nbsp;</p>
+<p><img loading="lazy" class="alignleft size-medium wp-image-415" src="https://github.gurucomedy.com/wp-content/uploads/2020/11/comedy-pryor1-mediumSquareAt3X-300x300.jpg" alt="" width="300" height="300" srcset="https://github.gurucomedy.com/wp-content/uploads/2020/11/comedy-pryor1-mediumSquareAt3X-300x300.jpg 300w, https://github.gurucomedy.com/wp-content/uploads/2020/11/comedy-pryor1-mediumSquareAt3X-1024x1024.jpg 1024w, https://github.gurucomedy.com/wp-content/uploads/2020/11/comedy-pryor1-mediumSquareAt3X-150x150.jpg 150w, https://github.gurucomedy.com/wp-content/uploads/2020/11/comedy-pryor1-mediumSquareAt3X-768x768.jpg 768w, https://github.gurucomedy.com/wp-content/uploads/2020/11/comedy-pryor1-mediumSquareAt3X-1536x1536.jpg 1536w, https://github.gurucomedy.com/wp-content/uploads/2020/11/comedy-pryor1-mediumSquareAt3X-48x48.jpg 48w, https://github.gurucomedy.com/wp-content/uploads/2020/11/comedy-pryor1-mediumSquareAt3X-250x250.jpg 250w, https://github.gurucomedy.com/wp-content/uploads/2020/11/comedy-pryor1-mediumSquareAt3X-550x550.jpg 550w, https://github.gurucomedy.com/wp-content/uploads/2020/11/comedy-pryor1-mediumSquareAt3X-800x800.jpg 800w, https://github.gurucomedy.com/wp-content/uploads/2020/11/comedy-pryor1-mediumSquareAt3X-180x180.jpg 180w, https://github.gurucomedy.com/wp-content/uploads/2020/11/comedy-pryor1-mediumSquareAt3X-500x500.jpg 500w, https://github.gurucomedy.com/wp-content/uploads/2020/11/comedy-pryor1-mediumSquareAt3X.jpg 1800w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>On this podcast we welcome American native, but Cork resident Dakota Mick.  In taking a break from discussing cancel culture Mick discusses one of the most formative comedians of his life, <a href="https://en.wikipedia.org/wiki/Richard_Pryor" target="_blank" rel="noopener">Richard Pryor</a>.</p>
+<p>Discussed are the man himself, black culture on humor in the United States and are there any gigs running in Ireland at all at the moment.  Dave tries as usual to wrangler a gig some where, with the same hilarious results.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+<atom:contributor><atom:name>Dave Keeshan</atom:name><atom:uri>https://www.podchaser.com/users/davekeeshan</atom:uri></atom:contributor>
+
+<podcast:person img="https://github.gurucomedy.com/wp-content/uploads/2020/06/DK_face_dinky-271x300.png" role="host">Dave Keeshan</podcast:person>
+	</item>
+	
+	<item>
+        <title>Censorious Times</title>
+		<link>https://github.gurucomedy.com/censorious-times/</link>
+		<pubDate>Tue, 20 Oct 2020 23:39:08 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2020-10-20t23:09:15+00:00-6dff7ba0c75572f</guid>
+    	<description><![CDATA[Censorious Times]]></description><post-id xmlns="com-wordpress:feed-additions:1">409</post-id>
+		<atom:link rel="http://podlove.org/deep-link" href="https://github.gurucomedy.com/censorious-times/#" />
+		
+<enclosure url="https://cloudflare-ipfs.com/ipfs/QmezhQ48BVhy5hSQq93mGxCXtKMuLqfPTJKXQ1LGijT5FY?filename=goc18.mp3" length="39168943" type="audio/mpeg"/>
+
+		<itunes:duration>00:54:21</itunes:duration>
+		<itunes:author>Dave Keeshan</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:episode>18</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		
+		
+		<content:encoded><![CDATA[<p><img loading="lazy" class="alignleft size-medium wp-image-410" src="https://github.gurucomedy.com/wp-content/uploads/2020/10/hqdefault-300x225.jpg" alt="" width="300" height="225" srcset="https://github.gurucomedy.com/wp-content/uploads/2020/10/hqdefault-300x225.jpg 300w, https://github.gurucomedy.com/wp-content/uploads/2020/10/hqdefault-250x188.jpg 250w, https://github.gurucomedy.com/wp-content/uploads/2020/10/hqdefault-240x180.jpg 240w, https://github.gurucomedy.com/wp-content/uploads/2020/10/hqdefault-400x300.jpg 400w, https://github.gurucomedy.com/wp-content/uploads/2020/10/hqdefault.jpg 480w" sizes="(max-width: 300px) 100vw, 300px" />Today we are joined by podcasters Simon Cockle and Sam Harriot to discuss the more censorious issues that have plagued comedy and still plague us today.</p>
+<p>We cover <a href="https://en.wikipedia.org/wiki/Brass_Eye" target="_blank" rel="noopener">Brass Eye</a>, <a href="https://en.wikipedia.org/wiki/Fawlty_Towers" target="_blank" rel="noopener">Fawlty Towers</a> and Simon even manages to get in a <a href="https://en.wikipedia.org/wiki/Jonathan_Swift" target="_blank" rel="noopener">Johnathan Swift</a> reference! Nice one!</p>
+<p>Simon and Sam can be found over on their podcast, <a href="https://podcasts.apple.com/us/podcast/the-sacred-cow/id1505810790" target="_blank" rel="noopener">The Sacred Cow</a></p>
+]]></content:encoded>
+<atom:contributor><atom:name>Dave Keeshan</atom:name><atom:uri>https://www.podchaser.com/users/davekeeshan</atom:uri></atom:contributor>
+
+<podcast:person img="https://github.gurucomedy.com/wp-content/uploads/2020/06/DK_face_dinky-271x300.png" role="host">Dave Keeshan</podcast:person>
+	</item>
+	
+	<item>
+        <title>Black Comedy in America with Carter Anderson</title>
+		<link>https://github.gurucomedy.com/carter-anderson-discusses-black-comedy-in-america/</link>
+		<pubDate>Mon, 28 Sep 2020 20:36:15 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2020-09-28t20:14:47+00:00-23575b3c36d3705</guid>
+    	<description><![CDATA[Black Comedy in America with Carter Anderson]]></description><post-id xmlns="com-wordpress:feed-additions:1">402</post-id>
+		<atom:link rel="http://podlove.org/deep-link" href="https://github.gurucomedy.com/carter-anderson-discusses-black-comedy-in-america/#" />
+		
+<enclosure url="https://cloudflare-ipfs.com/ipfs/QmbCRkZnHvkbUo7TZ9YCYzcSiw2tV9Zw6qGksEmUnoYs5w?filename=goc17.mp3" length="20517273" type="audio/mpeg"/>
+
+		<itunes:duration>00:28:26</itunes:duration>
+		<itunes:author>Dave Keeshan</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:episode>17</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		
+		
+		<content:encoded><![CDATA[<p><img loading="lazy" class="alignleft size-medium wp-image-403" src="https://github.gurucomedy.com/wp-content/uploads/2020/09/carter-300x300.jpg" alt="" width="300" height="300" srcset="https://github.gurucomedy.com/wp-content/uploads/2020/09/carter.jpg 300w, https://github.gurucomedy.com/wp-content/uploads/2020/09/carter-150x150.jpg 150w, https://github.gurucomedy.com/wp-content/uploads/2020/09/carter-48x48.jpg 48w, https://github.gurucomedy.com/wp-content/uploads/2020/09/carter-250x250.jpg 250w, https://github.gurucomedy.com/wp-content/uploads/2020/09/carter-180x180.jpg 180w" sizes="(max-width: 300px) 100vw, 300px" />On this podcast we are delighted to have on American standup comedian, <a href="https://www.facebook.com/bncarter2" target="_blank" rel="noopener">Carter Anderson</a>. Carter discusses what  it is like to be a black comedian in America, particularly now in the world torn apart with Covid pandemics, new elections and Black Lives Matters protests.</p>
+<p>Carter is based in Texas and also runs his own podcast, <a href="https://podcasts.apple.com/us/podcast/geekd-out/id1521533475" target="_blank" rel="noopener">Geek&#8217;d Out</a>.</p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" title="Carter Anderson Set From Portland’s Funniest Person" width="500" height="281" src="https://www.youtube.com/embed/70VFlfI1hvo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+<atom:contributor><atom:name>Dave Keeshan</atom:name><atom:uri>https://www.podchaser.com/users/davekeeshan</atom:uri></atom:contributor>
+
+<podcast:person img="https://github.gurucomedy.com/wp-content/uploads/2020/06/DK_face_dinky-271x300.png" role="host">Dave Keeshan</podcast:person>
+	</item>
+	
+	<item>
+        <title>Cabaret Comedy - with Iestyn Edwards</title>
+		<link>https://github.gurucomedy.com/cabaret-comedy-with-iestyn-edwards/</link>
+		<pubDate>Mon, 14 Sep 2020 23:22:28 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2020-09-14t22:37:47+00:00-cc777b8dca2375f</guid>
+    	<description><![CDATA[Cabaret Comedy - with Iestyn Edwards]]></description><post-id xmlns="com-wordpress:feed-additions:1">391</post-id>
+		<atom:link rel="http://podlove.org/deep-link" href="https://github.gurucomedy.com/cabaret-comedy-with-iestyn-edwards/#" />
+		
+<enclosure url="https://cloudflare-ipfs.com/ipfs/QmeQkx4ymE3yccNm2PqSc1NUXxiTn5mhGbqpPbAmqWGSAp?filename=goc16.mp3" length="30630978" type="audio/mpeg"/>
+
+		<itunes:duration>00:42:29</itunes:duration>
+		<itunes:author>Dave Keeshan</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:episode>16</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		
+		
+		<content:encoded><![CDATA[<p><img loading="lazy" class="alignleft size-medium wp-image-393" src="https://github.gurucomedy.com/wp-content/uploads/2020/09/then_now-iestynedwards-300x225.jpg" alt="" width="300" height="225" srcset="https://github.gurucomedy.com/wp-content/uploads/2020/09/then_now-iestynedwards-300x225.jpg 300w, https://github.gurucomedy.com/wp-content/uploads/2020/09/then_now-iestynedwards-768x576.jpg 768w, https://github.gurucomedy.com/wp-content/uploads/2020/09/then_now-iestynedwards-250x188.jpg 250w, https://github.gurucomedy.com/wp-content/uploads/2020/09/then_now-iestynedwards-550x413.jpg 550w, https://github.gurucomedy.com/wp-content/uploads/2020/09/then_now-iestynedwards-800x600.jpg 800w, https://github.gurucomedy.com/wp-content/uploads/2020/09/then_now-iestynedwards-240x180.jpg 240w, https://github.gurucomedy.com/wp-content/uploads/2020/09/then_now-iestynedwards-400x300.jpg 400w, https://github.gurucomedy.com/wp-content/uploads/2020/09/then_now-iestynedwards-667x500.jpg 667w, https://github.gurucomedy.com/wp-content/uploads/2020/09/then_now-iestynedwards.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" />This week we are delighted to have on the podcast <a href="https://iestynedwards.blogspot.com/" target="_blank" rel="noopener">Iestyn Edwards</a>.</p>
+<p>Iestyn discusses his art form, Cabaret Comedy, but we also delve into comedy characters, <a href="https://twitter.com/MadameGalina" target="_blank" rel="noopener">Madame Galina</a>, woke culture and Iestyn&#8217;s book, <a href="https://www.amazon.co.uk/Tutu-Went-AWOL-Iestyn-Edwards/dp/1911586068" target="_blank" rel="noopener">My Tutu went AWOL</a>, which describes how Iestyn found himself behind the wire in Iraq entertaining the troops while also trying to figure out how to get teas stains out of his tights and not get stuffed in a tank.</p>
+]]></content:encoded>
+<atom:contributor><atom:name>Dave Keeshan</atom:name><atom:uri>https://www.podchaser.com/users/davekeeshan</atom:uri></atom:contributor>
+
+<podcast:person img="https://github.gurucomedy.com/wp-content/uploads/2020/06/DK_face_dinky-271x300.png" role="host">Dave Keeshan</podcast:person>
+	</item>
+	
+	<item>
+        <title>Norwegian Standup - with Pernille Haaland</title>
+		<link>https://github.gurucomedy.com/norwegian-standup-with-pernille-haaland/</link>
+		<pubDate>Tue, 01 Sep 2020 21:01:06 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2020-09-01t20:25:47+00:00-7c70847985b6075</guid>
+    	<description><![CDATA[On this episode we are delighted to have on Norwegian comedian Pernille Haaland. Pernille is mainly based in the UK, but the Covid lockdown finds her back in Norway.]]></description><post-id xmlns="com-wordpress:feed-additions:1">378</post-id>
+		<atom:link rel="http://podlove.org/deep-link" href="https://github.gurucomedy.com/norwegian-standup-with-pernille-haaland/#" />
+		
+<enclosure url="https://cloudflare-ipfs.com/ipfs/QmVDP79byoDGbWyfrU3uaxnxLSukzvxKtKHa5stht6gWn3?filename=goc15.mp3" length="26580953" type="audio/mpeg"/>
+
+		<itunes:duration>00:36:52</itunes:duration>
+		<itunes:author>Dave Keeshan</itunes:author>
+		<itunes:subtitle>From the land of frozen and A-Ha!</itunes:subtitle>
+		<itunes:episode>15</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary><![CDATA[On this episode we are delighted to have on Norwegian comedian Pernille Haaland. Pernille is mainly based in the UK, but the Covid lockdown finds her back in Norway.]]></itunes:summary>
+		
+		<content:encoded><![CDATA[<p><img loading="lazy" class="alignleft size-medium wp-image-380" src="https://github.gurucomedy.com/wp-content/uploads/2020/09/PH06-207x300.jpg" alt="" width="207" height="300" srcset="https://github.gurucomedy.com/wp-content/uploads/2020/09/PH06-207x300.jpg 207w, https://github.gurucomedy.com/wp-content/uploads/2020/09/PH06-707x1024.jpg 707w, https://github.gurucomedy.com/wp-content/uploads/2020/09/PH06-768x1112.jpg 768w, https://github.gurucomedy.com/wp-content/uploads/2020/09/PH06-1061x1536.jpg 1061w, https://github.gurucomedy.com/wp-content/uploads/2020/09/PH06-1414x2048.jpg 1414w, https://github.gurucomedy.com/wp-content/uploads/2020/09/PH06-250x362.jpg 250w, https://github.gurucomedy.com/wp-content/uploads/2020/09/PH06-550x796.jpg 550w, https://github.gurucomedy.com/wp-content/uploads/2020/09/PH06-800x1158.jpg 800w, https://github.gurucomedy.com/wp-content/uploads/2020/09/PH06-124x180.jpg 124w, https://github.gurucomedy.com/wp-content/uploads/2020/09/PH06-345x500.jpg 345w, https://github.gurucomedy.com/wp-content/uploads/2020/09/PH06.jpg 1500w" sizes="(max-width: 207px) 100vw, 207px" /></p>
+<p>On this episode we are delighted to have on Norwegian comedian <a href="https://pernillehaaland.com/" target="_blank" rel="noopener">Pernille Haaland</a>. Pernille is mainly based in the UK, but the Covid lockdown finds her back in Norway.</p>
+<p>We discuss performing stand-up in Norway, the fun of being an eternal expat and Dave find out all the cool places in Norway that Frozen was based on &#8230;eh for his daugther.</p>
+<p>Pernille has her own podcast, <a href="https://podcasts.apple.com/us/podcast/the-right-kind-of-wrong-podcast/id1509210614" target="_blank" rel="noopener">The Right Kind of Wrong</a>, and can also be found on <a href="https://www.youtube.com/channel/UC7cEOyEjLi-gOM_jpE_X66Q" target="_blank" rel="noopener">YouTube</a> and <a href="https://twitter.com/pdogcomedy" target="_blank" rel="noopener">Twitter</a>.</p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" title="Joke about my Norwegian mothers advice on dating" width="500" height="281" src="https://www.youtube.com/embed/CZiZY9lwlBQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+]]></content:encoded>
+<atom:contributor><atom:name>Dave Keeshan</atom:name><atom:uri>https://www.podchaser.com/users/davekeeshan</atom:uri></atom:contributor>
+
+<atom:contributor><atom:name>Pernille Halland</atom:name></atom:contributor>
+
+<podcast:person img="https://github.gurucomedy.com/wp-content/uploads/2020/06/DK_face_dinky-271x300.png" role="host">Dave Keeshan</podcast:person>
+
+<podcast:person img="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e.jpg?s=512&amp;d=mm&amp;r=g" role="guest">Pernille Halland</podcast:person>
+	</item>
+	
+	<item>
+        <title>Profiles Host Mickey Burns</title>
+		<link>https://github.gurucomedy.com/profiles-host-mickey-burns/</link>
+		<pubDate>Sun, 23 Aug 2020 22:57:39 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2020-08-23t22:14:09+00:00-29782a883741e6f</guid>
+    	<description><![CDATA[Profiles Host Mickey Burns]]></description><post-id xmlns="com-wordpress:feed-additions:1">371</post-id>
+		<atom:link rel="http://podlove.org/deep-link" href="https://github.gurucomedy.com/profiles-host-mickey-burns/#" />
+		
+<enclosure url="https://cloudflare-ipfs.com/ipfs/Qmb33yzimmppQ6w3oubrcvu2f5LwPETsuz1zk8abncpGgZ?filename=goc14.mp3" length="16616722" type="audio/mpeg"/>
+
+		<itunes:duration>00:23:01</itunes:duration>
+		<itunes:author>Dave Keeshan</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:episode>14</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		
+		
+		<content:encoded><![CDATA[<p><img loading="lazy" class="alignleft size-medium wp-image-372" src="https://github.gurucomedy.com/wp-content/uploads/2020/08/wOTp8Su_400x400-300x300.jpeg" alt="" width="300" height="300" srcset="https://github.gurucomedy.com/wp-content/uploads/2020/08/wOTp8Su_400x400-300x300.jpeg 300w, https://github.gurucomedy.com/wp-content/uploads/2020/08/wOTp8Su_400x400-150x150.jpeg 150w, https://github.gurucomedy.com/wp-content/uploads/2020/08/wOTp8Su_400x400-48x48.jpeg 48w, https://github.gurucomedy.com/wp-content/uploads/2020/08/wOTp8Su_400x400-250x250.jpeg 250w, https://github.gurucomedy.com/wp-content/uploads/2020/08/wOTp8Su_400x400-180x180.jpeg 180w, https://github.gurucomedy.com/wp-content/uploads/2020/08/wOTp8Su_400x400.jpeg 400w" sizes="(max-width: 300px) 100vw, 300px" />On this episode we have <a href="https://en.wikipedia.org/wiki/Staten_Island" target="_blank" rel="noopener">Staten Island</a> native <a href="https://en.wikipedia.org/wiki/Mickey_Burns" target="_blank" rel="noopener">Mickey Burns</a>. He is the host of the celebrity interview show Profiles on the <a href="https://en.wikipedia.org/wiki/NYC_Media" target="_blank" rel="noopener">NYC Media</a>. He is also the Network President of Quest Media Entertainment, Inc.</p>
+<p>Mickey discusses his TV show, Profiles, which has produced over 500 episodes.  The challenges the format has endured under lockdown and how his show and the rest of the TV production in New York city exits lockdown.</p>
+<p>Mickey has also released a book covering his unlikely journey to a TV host, <a href="https://www.amazon.com/gp/product/1912587262/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1912587262&amp;linkCode=as2&amp;tag=vurple-20&amp;linkId=d863bf94bbd9188ce34196fe600f51f5" target="_blank" rel="noopener">From the Projects to Profiles</a>.</p>
+]]></content:encoded>
+<atom:contributor><atom:name>Dave Keeshan</atom:name><atom:uri>https://www.podchaser.com/users/davekeeshan</atom:uri></atom:contributor>
+
+<podcast:person img="https://github.gurucomedy.com/wp-content/uploads/2020/06/DK_face_dinky-271x300.png" role="host">Dave Keeshan</podcast:person>
+	</item>
+	
+	<item>
+        <title>Melbourne Lockdown Special with Carrie Hardie</title>
+		<link>https://github.gurucomedy.com/melbourne-lockdown-with-carrie-hardie/</link>
+		<pubDate>Sun, 09 Aug 2020 23:53:17 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2020-08-09t23:36:28+00:00-23fed2d22d906d8</guid>
+    	<description><![CDATA[Melbourne Lockdown Special with Carrie Hardie]]></description><post-id xmlns="com-wordpress:feed-additions:1">357</post-id>
+		<atom:link rel="http://podlove.org/deep-link" href="https://github.gurucomedy.com/melbourne-lockdown-with-carrie-hardie/#" />
+		
+<enclosure url="https://cloudflare-ipfs.com/ipfs/QmbLHR8L2oAUc6qhro4PZeifWo8J2kqzbDWseirz8bVvrW?filename=goc13.mp3" length="20619392" type="audio/mpeg"/>
+
+		<itunes:duration>00:28:35</itunes:duration>
+		<itunes:author>Dave Keeshan</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:episode>13</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		
+		
+		<content:encoded><![CDATA[<p><img loading="lazy" class="alignleft size-medium wp-image-358" src="https://github.gurucomedy.com/wp-content/uploads/2020/08/CarrieHardie-1000x1000-1-300x300.jpg" alt="" width="300" height="300" srcset="https://github.gurucomedy.com/wp-content/uploads/2020/08/CarrieHardie-1000x1000-1-300x300.jpg 300w, https://github.gurucomedy.com/wp-content/uploads/2020/08/CarrieHardie-1000x1000-1-150x150.jpg 150w, https://github.gurucomedy.com/wp-content/uploads/2020/08/CarrieHardie-1000x1000-1-768x768.jpg 768w, https://github.gurucomedy.com/wp-content/uploads/2020/08/CarrieHardie-1000x1000-1-48x48.jpg 48w, https://github.gurucomedy.com/wp-content/uploads/2020/08/CarrieHardie-1000x1000-1-250x250.jpg 250w, https://github.gurucomedy.com/wp-content/uploads/2020/08/CarrieHardie-1000x1000-1-550x550.jpg 550w, https://github.gurucomedy.com/wp-content/uploads/2020/08/CarrieHardie-1000x1000-1-800x800.jpg 800w, https://github.gurucomedy.com/wp-content/uploads/2020/08/CarrieHardie-1000x1000-1-180x180.jpg 180w, https://github.gurucomedy.com/wp-content/uploads/2020/08/CarrieHardie-1000x1000-1-500x500.jpg 500w, https://github.gurucomedy.com/wp-content/uploads/2020/08/CarrieHardie-1000x1000-1.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" />On this episode we welcome an old friend, <a href="https://www.seriouscomedy.com.au/about/" target="_blank" rel="noopener">Carrie Hardie</a>.</p>
+<p>Carrie and I worked together on our first podcast experience, <del>10, 9</del>, 8 years ago.</p>
+<p>Carrie is currently stuck in Melbourne, which is the only state in Australia back in lockdown.  She discusses this, and the cancellation of the <a href="https://www.comedyfestival.com.au/" target="_blank" rel="noopener">Melbourne Comedy Festival</a> and the <a href="https://www.edfringe.com/" target="_blank" rel="noopener">Edinburgh Fringe Festival</a>. She was actively producing shows for both festivals when the call came in to effectively down tools and discusses the financial hardships she and many other people connected with the arts scene are enduring at the moment.</p>
+<p>Not to rest on her laurels her comedy company, <a href="https://www.seriouscomedy.com.au/" target="_blank" rel="noopener">Serious Comedy</a>, has moved online and is producing live shows that people worldwide are tuning in for.</p>
+<blockquote><p>Carrie has produced comedy shows in the Edinburgh Fringe Festival, Melbourne International Comedy Festival, Sydney Comedy Festival, Adelaide Fringe, Perth’s Fringe World, Canberra Comedy Festival, as well as outside of festivals around Australia. She has worked closely with Tim Ferguson to run his Comedy Writing Masterclasses in various places around Australia, as well as debuting his runaway success show A Fast Life on Wheels. She’s also run regular comedy rooms and produced and toured theatre shows.</p></blockquote>
+]]></content:encoded>
+<atom:contributor><atom:name>Dave Keeshan</atom:name><atom:uri>https://www.podchaser.com/users/davekeeshan</atom:uri></atom:contributor>
+
+<atom:contributor><atom:name>Carrie Hardie</atom:name></atom:contributor>
+
+<podcast:person img="https://github.gurucomedy.com/wp-content/uploads/2020/06/DK_face_dinky-271x300.png" role="host">Dave Keeshan</podcast:person>
+
+<podcast:person img="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e.jpg?s=512&amp;d=mm&amp;r=g" role="guest">Carrie Hardie</podcast:person>
+	</item>
+	</channel>
+</rss>

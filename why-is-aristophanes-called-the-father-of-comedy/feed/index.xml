@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Why is Aristophanes called the father of comedy?	</title>
+	<atom:link href="https://github.gurucomedy.com/why-is-aristophanes-called-the-father-of-comedy/feed/" rel="self" type="application/rss+xml" />
+	<link>https://github.gurucomedy.com/why-is-aristophanes-called-the-father-of-comedy/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-is-aristophanes-called-the-father-of-comedy</link>
+	<description></description>
+	<lastBuildDate>Thu, 12 Mar 2020 00:06:22 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+</channel>
+</rss>

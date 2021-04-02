@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments for Gurus of Comedy	</title>
+	<atom:link href="https://github.gurucomedy.com/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://github.gurucomedy.com/</link>
+	<description></description>
+	<lastBuildDate>Fri, 17 Jul 2020 22:56:03 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		Comment on Marc Maron interviews Jerry Seinfeld by Marc Maron interview Jim Carrey ~ Gurus of Comedy		</title>
+		<link>https://github.gurucomedy.com/maron-seinfeld/#comment-3</link>
+
+		<dc:creator><![CDATA[Marc Maron interview Jim Carrey ~ Gurus of Comedy]]></dc:creator>
+		<pubDate>Fri, 17 Jul 2020 22:56:03 +0000</pubDate>
+		<guid isPermaLink="false">https://github.gurucomedy.com/?p=324#comment-3</guid>
+
+					<description><![CDATA[[&#8230;] Maron must be on fire recently after getting Jerry Seinfeld on his podcast recently, considered by many to be the great white whale he just got Jim Carrey [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Maron must be on fire recently after getting Jerry Seinfeld on his podcast recently, considered by many to be the great white whale he just got Jim Carrey [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
